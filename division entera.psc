@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Escribir "division entera"
+	Escribir "operación módulo"
 	leer a, b
 	x=a%b
 	Escribir x
