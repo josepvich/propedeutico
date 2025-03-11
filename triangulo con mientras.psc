@@ -5,6 +5,6 @@ Algoritmo sin_titulo
 	Mientras n<=9 Hacer
 		x=x+"*"
 		n=n+1
-		Escribir "*", x
+		Escribir x
 	Fin Mientras
 FinAlgoritmo
